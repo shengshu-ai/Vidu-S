@@ -2,7 +2,7 @@
 
 <div align="center" style="line-height: 1;">
   <a href="https://vidu.com/vidu-stream">
-    <img alt="Try Vidu Stream"
+    <img alt="Try Vidu S1"
       src="https://img.shields.io/badge/Try-Vidu%20Stream-555555?labelColor=00a67d&color=555555&logo=googlegemini&logoColor=white" height="32"/>
   </a>
   <a href="https://arxiv.org/abs/2607.03118">
