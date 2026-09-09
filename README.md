@@ -1,23 +1,28 @@
-# Vidu S1: A Real-Time Interactive Video Generation Model
+# Vidu S
 
 <div align="center" style="line-height: 1;">
+  <!-- Vidu S2 badges are intentionally not linked until URLs are available. -->
+  <img alt="Try Vidu S2 - Coming Soon"
+    src="https://img.shields.io/badge/Try%20Vidu%20S2-Coming%20Soon-9ca3af?logo=googlegemini&logoColor=white" height="32"/>
+  <img alt="Vidu S2 Paper - Coming Soon"
+    src="https://img.shields.io/badge/Vidu%20S2%20Paper-Coming%20Soon-9ca3af?logo=arxiv&logoColor=white" height="32"/>
   <a href="https://vidu.com/vidu-stream">
     <img alt="Try Vidu S1"
       src="https://img.shields.io/badge/Try-Vidu%20Stream-555555?labelColor=00a67d&color=555555&logo=googlegemini&logoColor=white" height="32"/>
   </a>
   <a href="https://arxiv.org/abs/2607.03118">
-    <img alt="Paper"
-      src="https://img.shields.io/badge/Paper-arXiv%3A2607.03118-555555?labelColor=b31b1b&color=555555&logo=arxiv&logoColor=white" height="32"/>
+    <img alt="Vidu S1 Paper"
+      src="https://img.shields.io/badge/Vidu%20S1%20Paper-arXiv%3A2607.03118-555555?labelColor=b31b1b&color=555555&logo=arxiv&logoColor=white" height="32"/>
   </a>
-  <a href="#documentation-english">
+  <a href="#docs">
     <img alt="English Documentation"
       src="https://img.shields.io/badge/Docs-English-555555?labelColor=2f6fed&color=555555&logo=readthedocs&logoColor=white" height="32"/>
   </a>
-  <a href="#documentation-chinese">
+  <a href="#docs">
     <img alt="Chinese Documentation"
       src="https://img.shields.io/badge/Docs-Chinese-555555?labelColor=0891b2&color=555555&logo=readthedocs&logoColor=white" height="32"/>
   </a>
-  <a href="#documentation-chinese">
+  <a href="#docs">
     <img alt="API Usage"
       src="https://img.shields.io/badge/API-Documentation-555555?labelColor=7c3aed&color=555555&logo=fastapi&logoColor=white" height="32"/>
   </a>
@@ -33,6 +38,12 @@
 
 ## Introduction
 
+### Vidu S2
+
+*Introduction coming soon.*
+
+### Vidu S1
+
 Vidu S1 is a real-time interactive video generation model for voice-controlled digital characters. Users can guide generated video content at any moment through spoken instructions, enabling live interaction.  
 
 Key breakthroughs:
@@ -45,24 +56,39 @@ Key breakthroughs:
 
 ## Quick Links
 
+### Vidu S2
+
+- **Try Vidu S2**: *Coming soon*
+- **Paper**: *Coming soon*
+
+### Vidu S1
+
 - **Try Vidu S1**: https://vidu.com/vidu-stream
-- **Paper**: https://arxiv.org/abs/2607.03118
+- **Vidu S1 Paper**: https://arxiv.org/abs/2607.03118
 
 ## Docs
 
-### English
+### Vidu S2
+
+- **User Guide**: *Coming soon*
+- **API Documentation**: *Coming soon*
+- **API Quickstart**: *Coming soon*
+
+### Vidu S1
+
+#### English
 
 - **User Guide**: [notion.site/Vidu-S1-Introduction](https://auspicious-passive-36a.notion.site/Vidu-S1-Introduction-34324005a3e48009b3f3d9c07c79d83b)
 - **API Documentation**: [shengshu.feishu.cn/wiki/E5EmwSjh0i6UftkCGQcckCUgn9d](https://shengshu.feishu.cn/wiki/E5EmwSjh0i6UftkCGQcckCUgn9d)
 - **API Quickstart**: [shengshu.feishu.cn/wiki/Yz8RwYuu9i2qLukPS9NcXsN0nxg](https://shengshu.feishu.cn/wiki/Yz8RwYuu9i2qLukPS9NcXsN0nxg)
 
-### Chinese
+#### Chinese
 
 - **User Guide**: [Vidu S1 使用说明](https://shengshu.feishu.cn/wiki/PSlDwao9GiEGOKkWS2FcWRtOnwe)
 - **API Documentation**: [API 文档](https://shengshu.feishu.cn/docx/T9jid9NSio6wSNxaw14c2HKKnKd)
 - **API Quickstart**: [API 快速开始](https://shengshu.feishu.cn/wiki/GF2Uw5cGvihTBIk2zgYcKhzGnSf)
 
-### Agent Skill
+#### Agent Skill
 
 For agent-assisted API integration, use the `vidu-s1-api` Skill. In Claude Code, Codex, OpenClaw, or any agent that supports Skills, say directly:
 
