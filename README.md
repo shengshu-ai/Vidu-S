@@ -1,11 +1,13 @@
 # Vidu S
 
 <div align="center" style="line-height: 1;">
-  <!-- Vidu S2 badges are intentionally not linked until URLs are available. -->
+  <!-- The Vidu S2 Try badge is intentionally not linked until its URL is available. -->
   <img alt="Try Vidu S2 - Coming Soon"
     src="https://img.shields.io/badge/Try%20Vidu%20S2-Coming%20Soon-9ca3af?logo=googlegemini&logoColor=white" height="32"/>
-  <img alt="Vidu S2 Paper - Coming Soon"
-    src="https://img.shields.io/badge/Vidu%20S2%20Paper-Coming%20Soon-9ca3af?logo=arxiv&logoColor=white" height="32"/>
+  <a href="https://arxiv.org/abs/2609.11638">
+    <img alt="Vidu S2 Paper"
+      src="https://img.shields.io/badge/Vidu%20S2%20Paper-arXiv%3A2609.11638-555555?labelColor=b31b1b&color=555555&logo=arxiv&logoColor=white" height="32"/>
+  </a>
   <a href="https://vidu.com/vidu-stream">
     <img alt="Try Vidu S1"
       src="https://img.shields.io/badge/Try-Vidu%20Stream-555555?labelColor=00a67d&color=555555&logo=googlegemini&logoColor=white" height="32"/>
@@ -59,7 +61,7 @@ Key breakthroughs:
 ### Vidu S2
 
 - **Try Vidu S2**: *Coming soon*
-- **Paper**: *Coming soon*
+- **Vidu S2 Paper**: https://arxiv.org/abs/2609.11638
 
 ### Vidu S1
 
