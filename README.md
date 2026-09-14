@@ -39,7 +39,7 @@
 
 ### Vidu S2
 
-Vidu S2 extends real-time video generation beyond talking-head digital characters to high-resolution interactive avatars, live video editing, and immersive spatial video. It includes **Vidu S2-Avatar** for controllable character generation and **Vidu S2-Editing** for transforming incoming video streams, both designed for continuous, low-latency interaction.
+Vidu S2 extends real-time video generation beyond talking-head digital characters to high-resolution interactive avatars, live video editing, and immersive spatial video. It includes **Vidu S2-Avatar** for controllable character generation and **Vidu S2-Editing** for transforming incoming video streams.
 
 Key breakthroughs:
 1. **720p real-time interactive avatars**
@@ -47,11 +47,11 @@ Key breakthroughs:
 2. **Stable long-horizon generation with Self-Replay Forcing**
    - Self-Replay Forcing (SRF) replays re-noised, self-generated trajectories in a gradient-enabled causal pass, helping prevent errors from accumulating across streaming segments.
 3. **Real-time editing of incoming video**
-   - Vidu S2-Editing supports style transfer, virtual try-on, character replacement, and background replacement from text instructions and optional reference images while preserving the source motion and timing.
+   - Vidu S2-Editing supports style transfer, virtual try-on, character replacement, and background replacement from text instructions and optional reference images while preserving the source motion.
 4. **Real-time spatial video for immersive displays**
    - Generated or edited streams can be converted into synchronized left- and right-eye views, while stereoscopic inputs can be edited jointly for streaming to VR headsets.
 5. **Efficient inference on low-cost GPUs**
-   - An optimized serving stack combines efficient attention, low-bit GEMM, kernel and launch optimizations, and multi-GPU pipelining to meet real-time inference requirements.
+   - An optimized serving stack combines TurboDiffusion and TurboServe, using efficient attention, low-bit GEMM, kernel and launch optimizations, and multi-GPU pipelining for real-time inference.
 
 ### Vidu S1
 
