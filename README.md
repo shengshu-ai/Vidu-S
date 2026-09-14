@@ -78,15 +78,13 @@ Key breakthroughs:
 
 ## Docs
 
-### Vidu S2
-
-#### English
+### English
 
 - **User Guide**: [shengshu.feishu.cn/wiki/X7ZLwyLUzi461LkAlNpcTxs1nsy](https://shengshu.feishu.cn/wiki/X7ZLwyLUzi461LkAlNpcTxs1nsy)
 - **API Documentation**: [platform.vidu.com/vidu-stream/doc](https://platform.vidu.com/vidu-stream/doc)
 - **API Quickstart**: [platform.vidu.com/vidu-stream/doc/s2-avatar/realtime/quick-start](https://platform.vidu.com/vidu-stream/doc/s2-avatar/realtime/quick-start)
 
-#### Chinese
+### Chinese
 
 - **User Guide**: [shengshu.feishu.cn/wiki/Fz8ywkzEwil84LkbCOKcxotMnvb](https://shengshu.feishu.cn/wiki/Fz8ywkzEwil84LkbCOKcxotMnvb)
 - **API Documentation**: [platform.vidu.cn/vidu-stream/doc](https://platform.vidu.cn/vidu-stream/doc)
