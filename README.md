@@ -112,7 +112,7 @@ The agent will clone and install it into the proper Skills directory. Restart th
 If you find Vidu S useful for your research, please cite:
 
 ```bibtex
-@article{zhang2026vidu,
+@article{zhang2026vidus2,
   title={Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation},
   author={Zhang, Jintao and Jiang, Kai and Chen, Jintao and Wang, Xu and Liu, Deyuan and Li, Jungang and Chen, Dechuang and Lin, Ming and Zhou, Jingjiang and Jin, Haopeng and others},
   journal={arXiv preprint arXiv:2609.11638},
@@ -121,7 +121,7 @@ If you find Vidu S useful for your research, please cite:
 ```
 
 ```bibtex
-@article{zhang2026vidu,
+@article{zhang2026vidus1,
   title={Vidu S1: A Real-Time Interactive Video Generation Model},
   author={Zhang, Jintao and Jiang, Kai and Chen, Jintao and Wang, Xu and Luo, Yang and Wang, Yuji and Chen, Dechuang and Li, Jungang and Ye, Chengyang and Chen, Marco and others},
   journal={arXiv preprint arXiv:2607.03118},
