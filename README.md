@@ -43,7 +43,7 @@ Vidu S2 extends real-time video generation beyond talking-head digital character
 
 Key breakthroughs:
 1. **720p real-time interactive avatars**
-   - Vidu S2-Avatar generates 720p video at **25–42 FPS**, follows a wider range of instructions—including large body motions such as dancing—and accepts new reference images at any moment during a stream.
+   - Vidu S2-Avatar generates 720p video at 25–42 FPS, follows a wider range of instructions—including large body motions such as dancing—and accepts new reference images at any moment during a stream.
 2. **Stable long-horizon generation with Self-Replay Forcing**
    - Self-Replay Forcing (SRF) replays re-noised, self-generated trajectories in a gradient-enabled causal pass, helping prevent errors from accumulating across streaming segments.
 3. **Real-time editing of incoming video**
@@ -82,13 +82,15 @@ Key breakthroughs:
 
 - **User Guide**: [shengshu.feishu.cn/wiki/X7ZLwyLUzi461LkAlNpcTxs1nsy](https://shengshu.feishu.cn/wiki/X7ZLwyLUzi461LkAlNpcTxs1nsy)
 - **API Documentation**: [platform.vidu.com/vidu-stream/doc](https://platform.vidu.com/vidu-stream/doc)
-- **API Quickstart**: [platform.vidu.com/vidu-stream/doc/s2-avatar/realtime/quick-start](https://platform.vidu.com/vidu-stream/doc/s2-avatar/realtime/quick-start)
+- **Vidu S2-Avatar Quickstart**: [platform.vidu.com/vidu-stream/doc/s2-avatar/realtime/quick-start](https://platform.vidu.com/vidu-stream/doc/s2-avatar/realtime/quick-start)
+- **Vidu S2-Editing Quickstart**: [platform.vidu.com/vidu-stream/doc/s2-editing/quick-start](https://platform.vidu.com/vidu-stream/doc/s2-editing/quick-start)
 
 ### Chinese
 
 - **User Guide**: [shengshu.feishu.cn/wiki/Fz8ywkzEwil84LkbCOKcxotMnvb](https://shengshu.feishu.cn/wiki/Fz8ywkzEwil84LkbCOKcxotMnvb)
 - **API Documentation**: [platform.vidu.cn/vidu-stream/doc](https://platform.vidu.cn/vidu-stream/doc)
-- **API Quickstart**: [platform.vidu.cn/vidu-stream/doc/s2-avatar/realtime/quick-start](https://platform.vidu.cn/vidu-stream/doc/s2-avatar/realtime/quick-start)
+- **Vidu S2-Avatar Quickstart**: [platform.vidu.cn/vidu-stream/doc/s2-avatar/realtime/quick-start](https://platform.vidu.cn/vidu-stream/doc/s2-avatar/realtime/quick-start)
+- **Vidu S2-Editing Quickstart**: [platform.vidu.cn/vidu-stream/doc/s2-editing/quick-start](https://platform.vidu.cn/vidu-stream/doc/s2-editing/quick-start)
 
 <!--
 #### Agent Skill
