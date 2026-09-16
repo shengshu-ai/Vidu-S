@@ -92,17 +92,15 @@ Key breakthroughs:
 - **Vidu S2-Avatar Quickstart**: [platform.vidu.cn/vidu-stream/doc/s2-avatar/realtime/quick-start](https://platform.vidu.cn/vidu-stream/doc/s2-avatar/realtime/quick-start)
 - **Vidu S2-Editing Quickstart**: [platform.vidu.cn/vidu-stream/doc/s2-editing/quick-start](https://platform.vidu.cn/vidu-stream/doc/s2-editing/quick-start)
 
-<!--
-#### Agent Skill
+### Agent Skill
 
-For agent-assisted API integration, use the `vidu-s1-api` Skill. In Claude Code, Codex, OpenClaw, or any agent that supports Skills, say directly:
+For agent-assisted API integration, use the `vidu-s-api` Skill. In Claude Code, Codex, OpenClaw, or any agent that supports Skills, say directly:
 
 ```text
-Install this skill: https://github.com/shengshu-ai/vidu-s-api/tree/main/skills/vidu-s1-api
+Install this skill: https://github.com/shengshu-ai/vidu-s-api/tree/main/skills/vidu-s-api
 ```
 
-The agent will clone and install it into the proper Skills directory. Restart the agent if required, then ask it to load `vidu-s1-api` for Vidu S1 API integration.
--->
+The agent will clone and install it into the proper Skills directory. Restart the agent if required, then ask it to load `vidu-s-api` for Vidu S2 API integration.
 
 ## Updates
 
