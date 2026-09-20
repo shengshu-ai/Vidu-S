@@ -39,19 +39,20 @@
 
 ### Vidu S2
 
-Vidu S2 extends real-time video generation beyond talking-head digital characters to high-resolution interactive avatars, live video editing, and immersive spatial video. It includes **Vidu S2-Avatar** for controllable character generation and **Vidu S2-Editing** for transforming incoming video streams.
+Vidu S2 extends real-time video generation beyond talking-head digital characters to high-resolution interactive avatars, live video editing, and immersive spatial video. It includes Vidu S2-Avatar for controllable character generation and Vidu S2-Editing for transforming live video streams.
 
 Key breakthroughs:
+
 1. **720p real-time interactive avatars**
-   - Vidu S2-Avatar generates 720p video at 25–42 FPS, follows a wider range of instructions—including large body motions such as dancing—and accepts new reference images at any moment during a stream.
+   - Vidu S2-Avatar generates 720p video at 25–42 FPS, supports complex instructions such as dancing, and accepts new reference images at any moment during streaming.
 2. **Stable long-horizon generation with Self-Replay Forcing**
-   - Self-Replay Forcing (SRF) replays re-noised, self-generated trajectories in a gradient-enabled causal pass, helping prevent errors from accumulating across streaming segments.
-3. **Real-time editing of incoming video**
-   - Vidu S2-Editing supports style transfer, virtual try-on, character replacement, and background replacement from text instructions and optional reference images while preserving the source motion.
+   - Self-Replay Forcing replays re-noised, self-generated trajectories during training to reduce error accumulation across streaming segments.
+3. **Real-time editing of live video**
+   - Vidu S2-Editing transforms incoming video streams using reference images, supporting style transfer, virtual try-on, character replacement, and background replacement while preserving source motion.
 4. **Real-time spatial video for immersive displays**
-   - Generated or edited streams can be converted into synchronized left- and right-eye views, while stereoscopic inputs can be edited jointly for streaming to VR headsets.
+   - Produces synchronized stereo views for immersive displays and VR headsets.
 5. **Efficient inference on low-cost GPUs**
-   - An optimized serving stack combines TurboDiffusion and TurboServe, using efficient attention, low-bit GEMM, kernel and launch optimizations, and multi-GPU pipelining for real-time inference.
+   - TurboDiffusion and TurboServe combine efficient attention, low-bit GEMM, kernel optimizations, and multi-GPU pipelining for real-time inference.
 
 ### Vidu S1
 
